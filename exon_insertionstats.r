@@ -42,7 +42,7 @@ j<-1
 for (i in names(Hsapiens)[1:24]){
 
 	cat("\nProccessing ",i,"...")
-	load(paste0("../Data/",i,"map.rda")) # Load map file for current chromosome
+	load(paste0("../Data/root_maps/",i,"map.rda")) # Load map file for current chromosome
 
 	# Data objects containing indices of S-V sites for each category are labeled with the chromosome name.
 	# Here we copy the data objects to a set of new names which can be used consistently in the following
