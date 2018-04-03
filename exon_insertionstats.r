@@ -76,7 +76,7 @@ for (i in names(Hsapiens)[1:24]){
 	exon_counts[j,4]<-length(which(tmp == TRUE)) + length(which(tmp2==TRUE))  
 
 
-	# Fill in columns 1-4 of the row of the exon_counts array corresponding to current chromosome.
+	# Fill in columns 5-8 of the row of the exon_counts array corresponding to current chromosome.
 	# These columns contain the total number of sites of each category
 	exon_counts[j,5]<-length(which(!is.na(ict)))
 	exon_counts[j,6]<-length(which(!is.na(icl)))
