@@ -11,16 +11,11 @@ load('../sim-develop/data/exann.rda')
 gnames <- c()
 numGenes <- 0
 for (ii in names(Hsapiens)[1:24]){
-    map<-get(paste0(ii,'Map')) # Get the site map data for the current chrom
-    ict<-    map[[2]]
-    icl<-    map[[3]]
-    iot<-    map[[4]]
-    iol<-    map[[5]]
-    insites<-map[[1]]
 
+    ii <- strsplit(ii,"chr")[[1]][2] # Remove "chr" from chromosome name
     tmpann_1 <- exann[exann$chrom==ii,]
 
-    numGenes <- numGenes + length(unique(unlist(tmpann_1$geneSym)))
+    numGenes <- numGenes + length(unique(tmpann_1$geneSym))
 
 }
 counts <-  array(NA,dim=c(numGenes,4)) # Allocate matrix for counts
@@ -40,16 +35,16 @@ for (ii in names(Hsapiens)[1:24]){
 
     tmpann_1 <- exann[exann$chrom==ii,]
 
-    currGenes <- unique(unlist(tmpann_1$geneSym))
+    currGenes <- unique(tmpann_1$geneSym)
     numCurrGenes <- length(currGenes)
     gnc <- 0
     for (jj in currGenes) {
 
-	gnc <- gnc+1
-	cat(paste0('gene ',gnc,'/',numCurrGenes,' for ',ii,':\t',jj,'\n'))
+        gnc <- gnc+1
+        cat(paste0('gene ',gnc,'/',numCurrGenes,' for ',ii,':\t',jj,'\n'))
 
         # count sites in exons of current gene
-        tmpann_2 <- tmpann_1[grep(jj,tmpann_1$geneSym),]
+        tmpann_2 <- tmpann_1[tmpann_11$geneSym==jj,]
 
         sen        <-inrange(insites[ict[!is.na(ict[,1]),1],1],tmpann_2$start,tmpann_2$end) # Check if any Closed-Tight category sites are within the start-end range of tmpann_2
         antisen    <-inrange(insites[ict[!is.na(ict[,2]),2],2],tmpann_2$start,tmpann_2$end)

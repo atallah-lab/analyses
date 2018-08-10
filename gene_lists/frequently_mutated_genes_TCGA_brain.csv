@@ -1,0 +1,11 @@
+Symbol,Name,Cytoband,Type,# Affected Cases in Cohort,# Affected Cases Across the GDC,# Mutations,Annotations,Survival
+IDH1,"isocitrate dehydrogenase 1 (NADP+), soluble",2q34,protein_coding,420 / 903 (46.51%),"566 / 10,202",6,Cancer Gene Census,add to survival plot
+TP53,tumor protein p53,17p13.1,protein_coding,369 / 903 (40.86%),"4,008 / 10,202",239,Cancer Gene Census,add to survival plot
+ATRX,alpha thalassemia/mental retardation syndrome X-linked,Xq21.1,protein_coding,241 / 903 (26.69%),"795 / 10,202",254,Cancer Gene Census,add to survival plot
+TTN,titin,2q31.2,protein_coding,215 / 903 (23.81%),"3,858 / 10,202",506,,add to survival plot
+PTEN,phosphatase and tensin homolog,10q23.31,protein_coding,167 / 903 (18.49%),"1,005 / 10,202",132,Cancer Gene Census,add to survival plot
+EGFR,epidermal growth factor receptor,7p11.2,protein_coding,141 / 903 (15.61%),"548 / 10,202",90,Cancer Gene Census,add to survival plot
+CIC,capicua transcriptional repressor,19q13.2,protein_coding,123 / 903 (13.62%),"414 / 10,202",115,Cancer Gene Census,add to survival plot
+MUC16,"mucin 16, cell surface associated",19p13.2,protein_coding,118 / 903 (13.07%),"2,466 / 10,202",197,,add to survival plot
+FLG,filaggrin,1q21.3,protein_coding,104 / 903 (11.52%),"1,430 / 10,202",138,,add to survival plot
+PIK3CA,"phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit alpha",3q26.32,protein_coding,83 / 903 (9.19%),"1,403 / 10,202",59,Cancer Gene Census,add to survival plot

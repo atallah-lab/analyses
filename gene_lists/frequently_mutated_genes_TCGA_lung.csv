@@ -1,0 +1,247 @@
+Symbol,Cancer Gene Census,Name,Cytoband,Type,# Affected Cases in Cohort,# Affected Cases Across the GDC,# Mutations,Annotations,Survival
+TP53,yes,tumor protein p53,17p13.1,protein_coding,"731 / 1,062 (68.83%)","4,008 / 10,202",414,Cancer Gene Census,add to survival plot
+TTN,no,titin,2q31.2,protein_coding,"712 / 1,062 (67.04%)","3,858 / 10,202",2220,,add to survival plot
+MUC16,yes,"mucin 16, cell surface associated",19p13.2,protein_coding,"524 / 1,062 (49.34%)","2,466 / 10,202",1045,,add to survival plot
+CSMD3,yes,CUB and Sushi multiple domains 3,8q23.3,protein_coding,"494 / 1,062 (46.52%)","1,636 / 10,202",854,,add to survival plot
+RYR2,no,ryanodine receptor 2 (cardiac),1q43,protein_coding,"468 / 1,062 (44.07%)","1,575 / 10,202",805,,add to survival plot
+LRP1B,yes,low density lipoprotein receptor-related protein 1B,"2q22.1, 2q22.2",protein_coding,"412 / 1,062 (38.79%)","1,524 / 10,202",682,,add to survival plot
+USH2A,no,"Usher syndrome 2A (autosomal recessive, mild)",1q41,protein_coding,"405 / 1,062 (38.14%)","1,393 / 10,202",650,,add to survival plot
+ZFHX4,no,zinc finger homeobox 4,8q21.13,protein_coding,"377 / 1,062 (35.50%)","1,293 / 10,202",583,,add to survival plot
+XIRP2,no,xin actin-binding repeat containing 2,2q24.3,protein_coding,"329 / 1,062 (30.98%)","1,185 / 10,202",478,,add to survival plot
+SYNE1,no,"spectrin repeat containing, nuclear envelope 1",6q25.2,protein_coding,"314 / 1,062 (29.57%)","1,593 / 10,202",460,,add to survival plot
+SPTA1,no,"spectrin, alpha, erythrocytic 1",1q23.1,protein_coding,"289 / 1,062 (27.21%)","1,126 / 10,202",398,,add to survival plot
+FLG,no,filaggrin,1q21.3,protein_coding,"277 / 1,062 (26.08%)","1,430 / 10,202",427,,add to survival plot
+NAV3,,neuron navigator 3,12q21.2,protein_coding,"265 / 1,062 (24.95%)","825 / 10,202",338,,add to survival plot
+MUC17,,"mucin 17, cell surface associated",7q22.1,protein_coding,"263 / 1,062 (24.76%)","1,105 / 10,202",347,,add to survival plot
+FAT3,,FAT atypical cadherin 3,11q14.3,protein_coding,"260 / 1,062 (24.48%)","1,170 / 10,202",368,,add to survival plot
+RYR3,,ryanodine receptor 3,"15q13.3, 15q14",protein_coding,"258 / 1,062 (24.29%)","1,075 / 10,202",356,,add to survival plot
+FAM135B,,"family with sequence similarity 135, member B",8q24.23,protein_coding,"256 / 1,062 (24.11%)","839 / 10,202",334,,add to survival plot
+PCDH15,,protocadherin-related 15,10q21.1,protein_coding,"253 / 1,062 (23.82%)","1,004 / 10,202",356,,add to survival plot
+CSMD1,,CUB and Sushi multiple domains 1,8p23.2,protein_coding,"245 / 1,062 (23.07%)","1,188 / 10,202",336,,add to survival plot
+ZNF536,,zinc finger protein 536,19q12,protein_coding,"244 / 1,062 (22.98%)","837 / 10,202",317,,add to survival plot
+PCLO,,piccolo presynaptic cytomatrix protein,7q21.11,protein_coding,"242 / 1,062 (22.79%)","1,340 / 10,202",330,,add to survival plot
+PAPPA2,,pappalysin 2,1q25.2,protein_coding,"236 / 1,062 (22.22%)","818 / 10,202",314,,add to survival plot
+ANK2,,"ankyrin 2, neuronal","4q25, 4q26",protein_coding,"233 / 1,062 (21.94%)","879 / 10,202",295,,add to survival plot
+CDH10,,"cadherin 10, type 2 (T2-cadherin)","5p14.2, 5p14.1",protein_coding,"231 / 1,062 (21.75%)","649 / 10,202",293,,add to survival plot
+ADAMTS12,,"ADAM metallopeptidase with thrombospondin type 1 motif, 12","5p13.3, 5p13.2",protein_coding,"228 / 1,062 (21.47%)","629 / 10,202",284,,add to survival plot
+COL11A1,,"collagen, type XI, alpha 1",1p21.1,protein_coding,"228 / 1,062 (21.47%)","831 / 10,202",300,,add to survival plot
+APOB,,apolipoprotein B,2p24.1,protein_coding,"225 / 1,062 (21.19%)","1,092 / 10,202",287,,add to survival plot
+DNAH9,,"dynein, axonemal, heavy chain 9",17p12,protein_coding,"217 / 1,062 (20.43%)","994 / 10,202",292,,add to survival plot
+PCDH11X,,protocadherin 11 X-linked,Xq21.31,protein_coding,"217 / 1,062 (20.43%)","704 / 10,202",269,,add to survival plot
+TNR,,tenascin R,1q25.1,protein_coding,"214 / 1,062 (20.15%)","646 / 10,202",258,,add to survival plot
+DNAH5,,"dynein, axonemal, heavy chain 5",5p15.2,protein_coding,"213 / 1,062 (20.06%)","1,258 / 10,202",282,,add to survival plot
+OBSCN,,"obscurin, cytoskeletal calmodulin and titin-interacting RhoGEF",1q42.13,protein_coding,"213 / 1,062 (20.06%)","1,316 / 10,202",262,,add to survival plot
+RELN,,reelin,7q22.1,protein_coding,"210 / 1,062 (19.77%)","859 / 10,202",284,,add to survival plot
+FAT4,,FAT atypical cadherin 4,4q28.1,protein_coding,"209 / 1,062 (19.68%)","1,169 / 10,202",250,Cancer Gene Census,add to survival plot
+PKHD1,,polycystic kidney and hepatic disease 1 (autosomal recessive),"6p12.3, 6p12.2",protein_coding,"209 / 1,062 (19.68%)","861 / 10,202",252,,add to survival plot
+RYR1,,ryanodine receptor 1 (skeletal),19q13.2,protein_coding,"209 / 1,062 (19.68%)","1,090 / 10,202",263,,add to survival plot
+DST,,dystonin,6p12.1,protein_coding,"205 / 1,062 (19.30%)","1,181 / 10,202",274,,add to survival plot
+ERICH3,,glutamate-rich 3,1p31.1,protein_coding,"204 / 1,062 (19.21%)","694 / 10,202",250,,add to survival plot
+SI,,sucrase-isomaltase (alpha-glucosidase),3q26.1,protein_coding,"204 / 1,062 (19.21%)","749 / 10,202",268,,add to survival plot
+PKHD1L1,,polycystic kidney and hepatic disease 1 (autosomal recessive)-like 1,"8q23.1, 8q23.2",protein_coding,"202 / 1,062 (19.02%)","947 / 10,202",250,,add to survival plot
+CNTNAP5,,contactin associated protein-like 5,2q14.3,protein_coding,"197 / 1,062 (18.55%)","711 / 10,202",244,,add to survival plot
+PRDM9,,PR domain containing 9,5p14.2,protein_coding,"195 / 1,062 (18.36%)","615 / 10,202",231,,add to survival plot
+LRP2,,low density lipoprotein receptor-related protein 2,2q31.1,protein_coding,"195 / 1,062 (18.36%)","1,009 / 10,202",248,,add to survival plot
+AHNAK2,,AHNAK nucleoprotein 2,14q32.33,protein_coding,"193 / 1,062 (18.17%)","1,019 / 10,202",281,,add to survival plot
+CSMD2,,CUB and Sushi multiple domains 2,1p35.1,protein_coding,"192 / 1,062 (18.08%)","969 / 10,202",241,,add to survival plot
+LRRC7,,leucine rich repeat containing 7,1p31.1,protein_coding,"192 / 1,062 (18.08%)","692 / 10,202",249,,add to survival plot
+DNAH8,,"dynein, axonemal, heavy chain 8",6p21.2,protein_coding,"190 / 1,062 (17.89%)","985 / 10,202",232,,add to survival plot
+ZNF804A,,zinc finger protein 804A,2q32.1,protein_coding,"188 / 1,062 (17.70%)","611 / 10,202",240,,add to survival plot
+ABCA13,,"ATP-binding cassette, sub-family A (ABC1), member 13",7p12.3,protein_coding,"188 / 1,062 (17.70%)","958 / 10,202",226,,add to survival plot
+HMCN1,,hemicentin 1,"1q25.3, 1q31.1",protein_coding,"188 / 1,062 (17.70%)","1,148 / 10,202",260,,add to survival plot
+HCN1,,hyperpolarization activated cyclic nucleotide gated potassium channel 1,5p12,protein_coding,"187 / 1,062 (17.61%)","622 / 10,202",218,,add to survival plot
+ADGRG4,,adhesion G protein-coupled receptor G4,Xq26.3,protein_coding,"186 / 1,062 (17.51%)","734 / 10,202",220,,add to survival plot
+NEB,,nebulin,2q23.3,protein_coding,"186 / 1,062 (17.51%)","1,040 / 10,202",238,,add to survival plot
+DMD,,dystrophin,"Xp21.2, Xp21.1",protein_coding,"186 / 1,062 (17.51%)","952 / 10,202",256,,add to survival plot
+CACNA1E,,"calcium channel, voltage-dependent, R type, alpha 1E subunit",1q25.3,protein_coding,"184 / 1,062 (17.33%)","846 / 10,202",229,,add to survival plot
+KMT2D,,lysine (K)-specific methyltransferase 2D,12q13.12,protein_coding,"180 / 1,062 (16.95%)","1,140 / 10,202",218,Cancer Gene Census,add to survival plot
+ADGRB3,,adhesion G protein-coupled receptor B3,"6q12, 6q13",protein_coding,"179 / 1,062 (16.85%)","652 / 10,202",198,,add to survival plot
+CUBN,,cubilin (intrinsic factor-cobalamin receptor),10p13,protein_coding,"179 / 1,062 (16.85%)","836 / 10,202",225,,add to survival plot
+SSPO,,SCO-spondin,7q36.1,protein_coding,"176 / 1,062 (16.57%)","789 / 10,202",209,,add to survival plot
+CNTNAP2,,contactin associated protein-like 2,"7q35, 7q36.1",protein_coding,"176 / 1,062 (16.57%)","707 / 10,202",212,,add to survival plot
+NRXN1,,neurexin 1,2p16.3,protein_coding,"174 / 1,062 (16.38%)","751 / 10,202",220,,add to survival plot
+DNAH7,,"dynein, axonemal, heavy chain 7",2q32.3,protein_coding,"174 / 1,062 (16.38%)","898 / 10,202",201,,add to survival plot
+BRINP3,,bone morphogenetic protein/retinoic acid inducible neural-specific 3,1q31.1,protein_coding,"174 / 1,062 (16.38%)","569 / 10,202",200,,add to survival plot
+TNN,,tenascin N,1q25.1,protein_coding,"173 / 1,062 (16.29%)","551 / 10,202",201,,add to survival plot
+MUC5B,,"mucin 5B, oligomeric mucus/gel-forming",11p15.5,protein_coding,"173 / 1,062 (16.29%)","981 / 10,202",235,,add to survival plot
+COL22A1,,"collagen, type XXII, alpha 1","8q24.23, 8q24.3",protein_coding,"172 / 1,062 (16.20%)","723 / 10,202",215,,add to survival plot
+SORCS1,,sortilin-related VPS10 domain containing receptor 1,10q25.1,protein_coding,"170 / 1,062 (16.01%)","576 / 10,202",205,,add to survival plot
+PXDNL,,peroxidasin-like,"8q11.22, 8q11.23",protein_coding,"170 / 1,062 (16.01%)","657 / 10,202",201,,add to survival plot
+PLXNA4,,plexin A4,7q32.3,protein_coding,"169 / 1,062 (15.91%)","710 / 10,202",205,,add to survival plot
+CDH9,,"cadherin 9, type 2 (T1-cadherin)",5p14.1,protein_coding,"169 / 1,062 (15.91%)","596 / 10,202",198,,add to survival plot
+NPAP1,,nuclear pore associated protein 1,15q11.2,protein_coding,"169 / 1,062 (15.91%)","832 / 10,202",207,,add to survival plot
+PEG3,,paternally expressed 3,19q13.43,protein_coding,"168 / 1,062 (15.82%)","705 / 10,202",200,,add to survival plot
+LAMA2,,"laminin, alpha 2",6q22.33,protein_coding,"168 / 1,062 (15.82%)","695 / 10,202",201,,add to survival plot
+KRAS,,Kirsten rat sarcoma viral oncogene homolog,12p12.1,protein_coding,"167 / 1,062 (15.73%)","839 / 10,202",20,Cancer Gene Census,add to survival plot
+FMN2,,formin 2,1q43,protein_coding,"166 / 1,062 (15.63%)","731 / 10,202",195,,add to survival plot
+DNAH11,,"dynein, axonemal, heavy chain 11",7p15.3,protein_coding,"166 / 1,062 (15.63%)","942 / 10,202",203,,add to survival plot
+RIMS2,,regulating synaptic membrane exocytosis 2,8q22.3,protein_coding,"165 / 1,062 (15.54%)","740 / 10,202",202,,add to survival plot
+RP1L1,,retinitis pigmentosa 1-like 1,8p23.1,protein_coding,"164 / 1,062 (15.44%)","646 / 10,202",218,,add to survival plot
+FBN2,,fibrillin 2,5q23.3,protein_coding,"164 / 1,062 (15.44%)","705 / 10,202",207,,add to survival plot
+NALCN,,"sodium leak channel, non selective","13q32.3, 13q33.1",protein_coding,"163 / 1,062 (15.35%)","658 / 10,202",209,,add to survival plot
+KEAP1,,kelch-like ECH-associated protein 1,19p13.2,protein_coding,"163 / 1,062 (15.35%)","324 / 10,202",158,,add to survival plot
+HERC2,,HECT and RLD domain containing E3 ubiquitin protein ligase 2,15q13.1,protein_coding,"162 / 1,062 (15.25%)","788 / 10,202",193,,add to survival plot
+CDH12,,"cadherin 12, type 2 (N-cadherin 2)",5p14.3,protein_coding,"162 / 1,062 (15.25%)","545 / 10,202",189,,add to survival plot
+PTPRD,,"protein tyrosine phosphatase, receptor type, D","9p24.1, 9p23",protein_coding,"159 / 1,062 (14.97%)","696 / 10,202",203,,add to survival plot
+AHNAK,,AHNAK nucleoprotein,11q12.3,protein_coding,"159 / 1,062 (14.97%)","855 / 10,202",187,,add to survival plot
+ASTN1,,astrotactin 1,1q25.2,protein_coding,"159 / 1,062 (14.97%)","602 / 10,202",201,,add to survival plot
+EYS,,eyes shut homolog (Drosophila),6q12,protein_coding,"158 / 1,062 (14.88%)","671 / 10,202",179,,add to survival plot
+TENM1,,teneurin transmembrane protein 1,Xq25,protein_coding,"157 / 1,062 (14.78%)","810 / 10,202",202,,add to survival plot
+CPS1,,"carbamoyl-phosphate synthase 1, mitochondrial",2q34,protein_coding,"155 / 1,062 (14.60%)","469 / 10,202",179,,add to survival plot
+COL6A3,,"collagen, type VI, alpha 3",2q37.3,protein_coding,"155 / 1,062 (14.60%)","850 / 10,202",198,,add to survival plot
+CTNNA2,,"catenin (cadherin-associated protein), alpha 2",2p12,protein_coding,"155 / 1,062 (14.60%)","565 / 10,202",188,,add to survival plot
+NLRP3,,"NLR family, pyrin domain containing 3",1q44,protein_coding,"155 / 1,062 (14.60%)","525 / 10,202",178,,add to survival plot
+MYH1,,"myosin, heavy chain 1, skeletal muscle, adult",17p13.1,protein_coding,"155 / 1,062 (14.60%)","656 / 10,202",174,,add to survival plot
+ADGRV1,,adhesion G protein-coupled receptor V1,5q14.3,protein_coding,"154 / 1,062 (14.50%)","1,005 / 10,202",183,,add to survival plot
+TPTE,,transmembrane phosphatase with tensin homology,21p11.2,protein_coding,"153 / 1,062 (14.41%)","615 / 10,202",168,,add to survival plot
+ANKRD30A,,ankyrin repeat domain 30A,10p11.21,protein_coding,"153 / 1,062 (14.41%)","602 / 10,202",176,,add to survival plot
+MACF1,,microtubule-actin crosslinking factor 1,1p34.3,protein_coding,"153 / 1,062 (14.41%)","1,050 / 10,202",180,,add to survival plot
+MYH2,,"myosin, heavy chain 2, skeletal muscle, adult",17p13.1,protein_coding,"153 / 1,062 (14.41%)","692 / 10,202",181,,add to survival plot
+FAT1,,FAT atypical cadherin 1,4q35.2,protein_coding,"152 / 1,062 (14.31%)","875 / 10,202",179,Cancer Gene Census,add to survival plot
+CRB1,,"crumbs family member 1, photoreceptor morphogenesis associated",1q31.3,protein_coding,"152 / 1,062 (14.31%)","634 / 10,202",171,,add to survival plot
+SPHKAP,,"SPHK1 interactor, AKAP domain containing",2q36.3,protein_coding,"152 / 1,062 (14.31%)","706 / 10,202",185,,add to survival plot
+PCDH10,,protocadherin 10,4q28.3,protein_coding,"151 / 1,062 (14.22%)","579 / 10,202",186,,add to survival plot
+ZNF831,,zinc finger protein 831,20q13.32,protein_coding,"151 / 1,062 (14.22%)","631 / 10,202",186,,add to survival plot
+ZNF804B,,zinc finger protein 804B,7q21.13,protein_coding,"150 / 1,062 (14.12%)","530 / 10,202",172,,add to survival plot
+ADGRL3,,adhesion G protein-coupled receptor L3,4q13.1,protein_coding,"150 / 1,062 (14.12%)","588 / 10,202",170,,add to survival plot
+ASXL3,,additional sex combs like transcriptional regulator 3,18q12.1,protein_coding,"149 / 1,062 (14.03%)","631 / 10,202",176,,add to survival plot
+PLEC,,plectin,8q24.3,protein_coding,"147 / 1,062 (13.84%)","746 / 10,202",166,,add to survival plot
+CTNND2,,"catenin (cadherin-associated protein), delta 2",5p15.2,protein_coding,"147 / 1,062 (13.84%)","591 / 10,202",173,,add to survival plot
+HRNR,,hornerin,1q21.3,protein_coding,"147 / 1,062 (13.84%)","736 / 10,202",180,,add to survival plot
+KIF2B,,kinesin family member 2B,17q22,protein_coding,"147 / 1,062 (13.84%)","467 / 10,202",166,,add to survival plot
+SYNE2,,"spectrin repeat containing, nuclear envelope 2",14q23.2,protein_coding,"146 / 1,062 (13.75%)","897 / 10,202",183,,add to survival plot
+MXRA5,,matrix-remodelling associated 5,Xp22.33,protein_coding,"146 / 1,062 (13.75%)","778 / 10,202",180,,add to survival plot
+HYDIN,,"HYDIN, axonemal central pair apparatus protein",16q22.2,protein_coding,"145 / 1,062 (13.65%)","870 / 10,202",170,,add to survival plot
+CDH18,,"cadherin 18, type 2",5p14.3,protein_coding,"144 / 1,062 (13.56%)","500 / 10,202",162,,add to survival plot
+EPHA5,,EPH receptor A5,"4q13.1, 4q13.2",protein_coding,"144 / 1,062 (13.56%)","494 / 10,202",166,,add to survival plot
+OR2L13,,"olfactory receptor, family 2, subfamily L, member 13",1q44,protein_coding,"144 / 1,062 (13.56%)","426 / 10,202",164,,add to survival plot
+DNAH3,,"dynein, axonemal, heavy chain 3",16p12.3,protein_coding,"144 / 1,062 (13.56%)","884 / 10,202",168,,add to survival plot
+VCAN,,versican,"5q14.2, 5q14.3",protein_coding,"143 / 1,062 (13.47%)","667 / 10,202",181,,add to survival plot
+UNC79,,unc-79 homolog (C. elegans),14q32.12,protein_coding,"143 / 1,062 (13.47%)","668 / 10,202",177,,add to survival plot
+ASPM,,"asp (abnormal spindle) homolog, microcephaly associated (Drosophila)",1q31.3,protein_coding,"143 / 1,062 (13.47%)","622 / 10,202",167,,add to survival plot
+FCGBP,,Fc fragment of IgG binding protein,19q13.2,protein_coding,"142 / 1,062 (13.37%)","830 / 10,202",178,,add to survival plot
+IGHG1,,immunoglobulin heavy constant gamma 1 (G1m marker),14q32.33,IG_C_gene,"141 / 1,062 (13.28%)","697 / 10,202",166,,add to survival plot
+UNC13C,,unc-13 homolog C (C. elegans),15q21.3,protein_coding,"140 / 1,062 (13.18%)","719 / 10,202",160,,add to survival plot
+CACNA1C,,"calcium channel, voltage-dependent, L type, alpha 1C subunit",12p13.33,protein_coding,"139 / 1,062 (13.09%)","698 / 10,202",165,,add to survival plot
+ADAMTS20,,"ADAM metallopeptidase with thrombospondin type 1 motif, 20",12q12,protein_coding,"139 / 1,062 (13.09%)","550 / 10,202",162,,add to survival plot
+FAM47C,,"family with sequence similarity 47, member C",Xp21.1,protein_coding,"138 / 1,062 (12.99%)","547 / 10,202",171,,add to survival plot
+DOCK2,,dedicator of cytokinesis 2,5q35.1,protein_coding,"137 / 1,062 (12.90%)","608 / 10,202",163,,add to survival plot
+MYH4,,"myosin, heavy chain 4, skeletal muscle",17p13.1,protein_coding,"137 / 1,062 (12.90%)","616 / 10,202",150,,add to survival plot
+DCDC1,,doublecortin domain containing 1,"11p14.1, 11p13",protein_coding,"137 / 1,062 (12.90%)","532 / 10,202",156,,add to survival plot
+LRRTM4,,leucine rich repeat transmembrane neuronal 4,2p12,protein_coding,"136 / 1,062 (12.81%)","401 / 10,202",151,,add to survival plot
+KMT2C,,lysine (K)-specific methyltransferase 2C,7q36.1,protein_coding,"136 / 1,062 (12.81%)","1,003 / 10,202",160,Cancer Gene Census,add to survival plot
+GRIN2B,,"glutamate receptor, ionotropic, N-methyl D-aspartate 2B",12p13.1,protein_coding,"136 / 1,062 (12.81%)","561 / 10,202",151,,add to survival plot
+MYH8,,"myosin, heavy chain 8, skeletal muscle, perinatal",17p13.1,protein_coding,"136 / 1,062 (12.81%)","622 / 10,202",156,,add to survival plot
+MROH2B,,maestro heat-like repeat family member 2B,5p13.1,protein_coding,"135 / 1,062 (12.71%)","632 / 10,202",167,,add to survival plot
+COL12A1,,"collagen, type XII, alpha 1","6q13, 6q14.1",protein_coding,"135 / 1,062 (12.71%)","661 / 10,202",151,,add to survival plot
+FLG2,,filaggrin family member 2,1q21.3,protein_coding,"135 / 1,062 (12.71%)","672 / 10,202",160,,add to survival plot
+MRC1,,"mannose receptor, C type 1",10p12.33,protein_coding,"134 / 1,062 (12.62%)","493 / 10,202",150,,add to survival plot
+ZAN,,zonadhesin (gene/pseudogene),7q22.1,protein_coding,"134 / 1,062 (12.62%)","659 / 10,202",160,,add to survival plot
+NF1,,neurofibromin 1,17q11.2,protein_coding,"134 / 1,062 (12.62%)","776 / 10,202",155,Cancer Gene Census,add to survival plot
+DCAF4L2,,DDB1 and CUL4 associated factor 4-like 2,8q21.3,protein_coding,"134 / 1,062 (12.62%)","454 / 10,202",144,,add to survival plot
+KIAA1109,,KIAA1109,4q27,protein_coding,"134 / 1,062 (12.62%)","715 / 10,202",157,,add to survival plot
+MGAM,,maltase-glucoamylase (alpha-glucosidase),7q34,protein_coding,"133 / 1,062 (12.52%)","704 / 10,202",151,,add to survival plot
+THSD7A,,"thrombospondin, type I, domain containing 7A",7p21.3,protein_coding,"133 / 1,062 (12.52%)","514 / 10,202",164,,add to survival plot
+TG,,thyroglobulin,8q24.22,protein_coding,"132 / 1,062 (12.43%)","725 / 10,202",162,,add to survival plot
+TSHZ3,,teashirt zinc finger homeobox 3,19q12,protein_coding,"132 / 1,062 (12.43%)","584 / 10,202",157,,add to survival plot
+STAB2,,stabilin 2,12q23.3,protein_coding,"132 / 1,062 (12.43%)","625 / 10,202",147,,add to survival plot
+GRM8,,"glutamate receptor, metabotropic 8",7q31.33,protein_coding,"132 / 1,062 (12.43%)","531 / 10,202",154,,add to survival plot
+THSD7B,,"thrombospondin, type I, domain containing 7B",2q22.1,protein_coding,"131 / 1,062 (12.34%)","676 / 10,202",161,,add to survival plot
+SLITRK3,,"SLIT and NTRK-like family, member 3",3q26.1,protein_coding,"131 / 1,062 (12.34%)","469 / 10,202",148,,add to survival plot
+PRUNE2,,prune homolog 2 (Drosophila),9q21.2,protein_coding,"131 / 1,062 (12.34%)","658 / 10,202",157,,add to survival plot
+CNTNAP4,,contactin associated protein-like 4,16q23.1,protein_coding,"131 / 1,062 (12.34%)","504 / 10,202",153,,add to survival plot
+MYO18B,,myosin XVIIIB,22q12.1,protein_coding,"131 / 1,062 (12.34%)","675 / 10,202",149,,add to survival plot
+GPR158,,G protein-coupled receptor 158,10p12.1,protein_coding,"129 / 1,062 (12.15%)","521 / 10,202",145,,add to survival plot
+FLNC,,"filamin C, gamma",7q32.1,protein_coding,"129 / 1,062 (12.15%)","657 / 10,202",158,,add to survival plot
+TLR4,,toll-like receptor 4,9q33.1,protein_coding,"129 / 1,062 (12.15%)","410 / 10,202",144,,add to survival plot
+NRXN3,,neurexin 3,"14q24.3, 14q31.1",protein_coding,"129 / 1,062 (12.15%)","629 / 10,202",152,,add to survival plot
+MAGEC1,,melanoma antigen family C1,Xq27.2,protein_coding,"128 / 1,062 (12.05%)","614 / 10,202",158,,add to survival plot
+HECW1,,"HECT, C2 and WW domain containing E3 ubiquitin protein ligase 1","7p14.1, 7p13",protein_coding,"128 / 1,062 (12.05%)","623 / 10,202",155,,add to survival plot
+ZNF208,,zinc finger protein 208,19p12,protein_coding,"128 / 1,062 (12.05%)","534 / 10,202",151,,add to survival plot
+TAF1L,,"TAF1 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 210kDa-like",9p21.1,protein_coding,"128 / 1,062 (12.05%)","636 / 10,202",145,,add to survival plot
+LAMA1,,"laminin, alpha 1",18p11.31,protein_coding,"128 / 1,062 (12.05%)","753 / 10,202",157,,add to survival plot
+MMP16,,matrix metallopeptidase 16 (membrane-inserted),8q21.3,protein_coding,"128 / 1,062 (12.05%)","453 / 10,202",137,,add to survival plot
+PTPRB,,"protein tyrosine phosphatase, receptor type, B",12q15,protein_coding,"127 / 1,062 (11.96%)","601 / 10,202",152,Cancer Gene Census,add to survival plot
+TMEM132D,,transmembrane protein 132D,12q24.33,protein_coding,"127 / 1,062 (11.96%)","624 / 10,202",152,,add to survival plot
+TENM3,,teneurin transmembrane protein 3,"4q34.3, 4q35.1",protein_coding,"126 / 1,062 (11.86%)","708 / 10,202",137,,add to survival plot
+DCHS2,,dachsous cadherin-related 2,4q31.3,protein_coding,"126 / 1,062 (11.86%)","741 / 10,202",154,,add to survival plot
+XIST,,X inactive specific transcript (non-protein coding),Xq13.2,lincRNA,"125 / 1,062 (11.77%)","554 / 10,202",136,,add to survival plot
+GRIN2A,,"glutamate receptor, ionotropic, N-methyl D-aspartate 2A",16p13.2,protein_coding,"125 / 1,062 (11.77%)","681 / 10,202",146,Cancer Gene Census,add to survival plot
+DPP6,,dipeptidyl-peptidase 6,7q36.2,protein_coding,"124 / 1,062 (11.68%)","504 / 10,202",150,,add to survival plot
+ASTN2,,astrotactin 2,9q33.1,protein_coding,"124 / 1,062 (11.68%)","486 / 10,202",144,,add to survival plot
+FAM47A,,"family with sequence similarity 47, member A",Xp21.1,protein_coding,"124 / 1,062 (11.68%)","500 / 10,202",152,,add to survival plot
+DYSF,,dysferlin,2p13.2,protein_coding,"124 / 1,062 (11.68%)","614 / 10,202",140,,add to survival plot
+LCT,,lactase,2q21.3,protein_coding,"123 / 1,062 (11.58%)","565 / 10,202",139,,add to survival plot
+ADAMTS16,,"ADAM metallopeptidase with thrombospondin type 1 motif, 16",5p15.32,protein_coding,"123 / 1,062 (11.58%)","529 / 10,202",134,,add to survival plot
+SCN2A,,"sodium channel, voltage gated, type II alpha subunit",2q24.3,protein_coding,"122 / 1,062 (11.49%)","591 / 10,202",144,,add to survival plot
+ZNF99,,zinc finger protein 99,19p12,protein_coding,"122 / 1,062 (11.49%)","505 / 10,202",138,,add to survival plot
+POM121L12,,POM121 transmembrane nucleoporin-like 12,7p12.1,protein_coding,"122 / 1,062 (11.49%)","435 / 10,202",125,,add to survival plot
+LRFN5,,leucine rich repeat and fibronectin type III domain containing 5,14q21.1,protein_coding,"122 / 1,062 (11.49%)","451 / 10,202",131,,add to survival plot
+MYH7,,"myosin, heavy chain 7, cardiac muscle, beta",14q11.2,protein_coding,"122 / 1,062 (11.49%)","591 / 10,202",131,,add to survival plot
+BIRC6,,baculoviral IAP repeat containing 6,2p22.3,protein_coding,"122 / 1,062 (11.49%)","688 / 10,202",145,,add to survival plot
+CDKN2A,,cyclin-dependent kinase inhibitor 2A,9p21.3,protein_coding,"121 / 1,062 (11.39%)","514 / 10,202",101,Cancer Gene Census,add to survival plot
+MYH13,,"myosin, heavy chain 13, skeletal muscle",17p13.1,protein_coding,"121 / 1,062 (11.39%)","570 / 10,202",136,,add to survival plot
+VPS13B,,vacuolar protein sorting 13 homolog B (yeast),8q22.2,protein_coding,"120 / 1,062 (11.30%)","728 / 10,202",139,,add to survival plot
+SALL1,,spalt-like transcription factor 1,16q12.1,protein_coding,"119 / 1,062 (11.21%)","549 / 10,202",148,,add to survival plot
+TRPA1,,"transient receptor potential cation channel, subfamily A, member 1",8q21.11,protein_coding,"119 / 1,062 (11.21%)","458 / 10,202",137,,add to survival plot
+SLC8A1,,"solute carrier family 8 (sodium/calcium exchanger), member 1",2p22.1,protein_coding,"118 / 1,062 (11.11%)","433 / 10,202",128,,add to survival plot
+DUSP27,,dual specificity phosphatase 27 (putative),1q24.1,protein_coding,"118 / 1,062 (11.11%)","436 / 10,202",136,,add to survival plot
+MYH6,,"myosin, heavy chain 6, cardiac muscle, alpha",14q11.2,protein_coding,"117 / 1,062 (11.02%)","550 / 10,202",138,,add to survival plot
+PCDH17,,protocadherin 17,13q21.1,protein_coding,"117 / 1,062 (11.02%)","588 / 10,202",137,,add to survival plot
+SCN1A,,"sodium channel, voltage gated, type I alpha subunit",2q24.3,protein_coding,"117 / 1,062 (11.02%)","641 / 10,202",146,,add to survival plot
+FER1L6,,fer-1-like family member 6,8q24.13,protein_coding,"116 / 1,062 (10.92%)","568 / 10,202",138,,add to survival plot
+ZNF521,,zinc finger protein 521,18q11.2,protein_coding,"116 / 1,062 (10.92%)","484 / 10,202",147,Cancer Gene Census,add to survival plot
+GRID2,,"glutamate receptor, ionotropic, delta 2","4q22.1, 4q22.2",protein_coding,"116 / 1,062 (10.92%)","517 / 10,202",129,,add to survival plot
+PTPRT,,"protein tyrosine phosphatase, receptor type, T","20q12, 20q13.11",protein_coding,"116 / 1,062 (10.92%)","720 / 10,202",139,,add to survival plot
+ADCY8,,adenylate cyclase 8 (brain),8q24.22,protein_coding,"116 / 1,062 (10.92%)","577 / 10,202",128,,add to survival plot
+SPATA31D1,,"SPATA31 subfamily D, member 1",9q21.32,protein_coding,"116 / 1,062 (10.92%)","474 / 10,202",135,,add to survival plot
+KALRN,,"kalirin, RhoGEF kinase","3q21.1, 3q21.2",protein_coding,"115 / 1,062 (10.83%)","617 / 10,202",133,,add to survival plot
+LRRK2,,leucine-rich repeat kinase 2,12q12,protein_coding,"114 / 1,062 (10.73%)","670 / 10,202",125,,add to survival plot
+KLHL1,,kelch-like family member 1,13q21.33,protein_coding,"114 / 1,062 (10.73%)","390 / 10,202",127,,add to survival plot
+SLIT2,,slit homolog 2 (Drosophila),4p15.31,protein_coding,"114 / 1,062 (10.73%)","542 / 10,202",139,,add to survival plot
+COL6A6,,"collagen, type VI, alpha 6",3q22.1,protein_coding,"113 / 1,062 (10.64%)","602 / 10,202",128,,add to survival plot
+OTOGL,,otogelin-like,12q21.31,protein_coding,"113 / 1,062 (10.64%)","508 / 10,202",131,,add to survival plot
+EPHA6,,EPH receptor A6,3q11.2,protein_coding,"113 / 1,062 (10.64%)","485 / 10,202",126,,add to survival plot
+RP1,,retinitis pigmentosa 1 (autosomal dominant),"8q11.23, 8q12.1",protein_coding,"113 / 1,062 (10.64%)","743 / 10,202",129,,add to survival plot
+ERBB4,,erb-b2 receptor tyrosine kinase 4,2q34,protein_coding,"113 / 1,062 (10.64%)","595 / 10,202",124,Cancer Gene Census,add to survival plot
+MYT1L,,myelin transcription factor 1-like,2p25.3,protein_coding,"113 / 1,062 (10.64%)","521 / 10,202",128,,add to survival plot
+ZNF479,,zinc finger protein 479,7p11.2,protein_coding,"112 / 1,062 (10.55%)","364 / 10,202",122,,add to survival plot
+PCDHB6,,protocadherin beta 6,5q31.3,protein_coding,"112 / 1,062 (10.55%)","626 / 10,202",122,,add to survival plot
+CDH8,,"cadherin 8, type 2",16q21,protein_coding,"112 / 1,062 (10.55%)","510 / 10,202",127,,add to survival plot
+NCKAP5,,NCK-associated protein 5,2q21.2,protein_coding,"112 / 1,062 (10.55%)","552 / 10,202",130,,add to survival plot
+CNTN5,,contactin 5,11q22.1,protein_coding,"112 / 1,062 (10.55%)","493 / 10,202",125,,add to survival plot
+CFAP47,,cilia and flagella associated protein 47,Xp21.1,protein_coding,"112 / 1,062 (10.55%)","539 / 10,202",128,,add to survival plot
+ABCB5,,"ATP-binding cassette, sub-family B (MDR/TAP), member 5",7p21.1,protein_coding,"112 / 1,062 (10.55%)","482 / 10,202",131,,add to survival plot
+MALAT1,,metastasis associated lung adenocarcinoma transcript 1 (non-protein coding),11q13.1,protein_coding,"112 / 1,062 (10.55%)","511 / 10,202",122,,add to survival plot
+GRM1,,"glutamate receptor, metabotropic 1",6q24.3,protein_coding,"112 / 1,062 (10.55%)","516 / 10,202",129,,add to survival plot
+SVEP1,,"sushi, von Willebrand factor type A, EGF and pentraxin domain containing 1",9q31.3,protein_coding,"112 / 1,062 (10.55%)","663 / 10,202",131,,add to survival plot
+LYST,,lysosomal trafficking regulator,1q42.3,protein_coding,"111 / 1,062 (10.45%)","602 / 10,202",125,,add to survival plot
+NLRP5,,"NLR family, pyrin domain containing 5",19q13.43,protein_coding,"111 / 1,062 (10.45%)","509 / 10,202",123,,add to survival plot
+PIK3CG,,"phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit gamma",7q22.3,protein_coding,"111 / 1,062 (10.45%)","432 / 10,202",119,,add to survival plot
+EPHA3,,EPH receptor A3,3p11.1,protein_coding,"111 / 1,062 (10.45%)","509 / 10,202",130,,add to survival plot
+ZNF423,,zinc finger protein 423,16q12.1,protein_coding,"111 / 1,062 (10.45%)","468 / 10,202",126,,add to survival plot
+ALMS1,,Alstrom syndrome 1,2p13.1,protein_coding,"110 / 1,062 (10.36%)","637 / 10,202",130,,add to survival plot
+COL19A1,,"collagen, type XIX, alpha 1",6q13,protein_coding,"110 / 1,062 (10.36%)","429 / 10,202",127,,add to survival plot
+SNTG1,,"syntrophin, gamma 1",8q11.21,protein_coding,"110 / 1,062 (10.36%)","315 / 10,202",120,,add to survival plot
+SORCS3,,sortilin-related VPS10 domain containing receptor 3,10q25.1,protein_coding,"110 / 1,062 (10.36%)","517 / 10,202",127,,add to survival plot
+SLITRK2,,"SLIT and NTRK-like family, member 2",Xq27.3,protein_coding,"110 / 1,062 (10.36%)","414 / 10,202",130,,add to survival plot
+UNC5D,,unc-5 homolog D (C. elegans),8p12,protein_coding,"110 / 1,062 (10.36%)","470 / 10,202",125,,add to survival plot
+DSCAM,,Down syndrome cell adhesion molecule,21q22.2,protein_coding,"110 / 1,062 (10.36%)","766 / 10,202",132,,add to survival plot
+KCNH7,,"potassium channel, voltage gated eag related subfamily H, member 7",2q24.2,protein_coding,"109 / 1,062 (10.26%)","446 / 10,202",125,,add to survival plot
+POTEE,,"POTE ankyrin domain family, member E",2q21.1,protein_coding,"109 / 1,062 (10.26%)","447 / 10,202",126,,add to survival plot
+ADCY2,,adenylate cyclase 2 (brain),5p15.31,protein_coding,"109 / 1,062 (10.26%)","445 / 10,202",128,,add to survival plot
+NLGN4X,,"neuroligin 4, X-linked","Xp22.32, Xp22.31",protein_coding,"109 / 1,062 (10.26%)","432 / 10,202",131,,add to survival plot
+TRPS1,,trichorhinophalangeal syndrome I,8q23.3,protein_coding,"109 / 1,062 (10.26%)","582 / 10,202",118,,add to survival plot
+ACAN,,aggrecan,15q26.1,protein_coding,"109 / 1,062 (10.26%)","542 / 10,202",120,,add to survival plot
+PTPRZ1,,"protein tyrosine phosphatase, receptor-type, Z polypeptide 1",7q31.32,protein_coding,"109 / 1,062 (10.26%)","538 / 10,202",142,,add to survival plot
+LRRC4C,,leucine rich repeat containing 4C,11p12,protein_coding,"108 / 1,062 (10.17%)","398 / 10,202",122,,add to survival plot
+HUWE1,,"HECT, UBA and WWE domain containing 1, E3 ubiquitin protein ligase",Xp11.22,protein_coding,"108 / 1,062 (10.17%)","726 / 10,202",128,,add to survival plot
+MYO7B,,myosin VIIB,2q14.3,protein_coding,"108 / 1,062 (10.17%)","479 / 10,202",123,,add to survival plot
+ZFPM2,,"zinc finger protein, FOG family member 2","8q22.3, 8q23.1",protein_coding,"108 / 1,062 (10.17%)","487 / 10,202",125,,add to survival plot
+ATRNL1,,attractin-like 1,10q25.3,protein_coding,"108 / 1,062 (10.17%)","419 / 10,202",121,,add to survival plot
+COL3A1,,"collagen, type III, alpha 1",2q32.2,protein_coding,"107 / 1,062 (10.08%)","478 / 10,202",133,,add to survival plot
+MDGA2,,MAM domain containing glycosylphosphatidylinositol anchor 2,14q21.3,protein_coding,"107 / 1,062 (10.08%)","425 / 10,202",125,,add to survival plot
+SLC39A12,,"solute carrier family 39 (zinc transporter), member 12",10p12.33,protein_coding,"107 / 1,062 (10.08%)","332 / 10,202",122,,add to survival plot
+SPEF2,,sperm flagellar 2,5p13.2,protein_coding,"107 / 1,062 (10.08%)","507 / 10,202",125,,add to survival plot
+DCC,,DCC netrin 1 receptor,18q21.2,protein_coding,"107 / 1,062 (10.08%)","657 / 10,202",127,,add to survival plot
+NTRK3,,"neurotrophic tyrosine kinase, receptor, type 3",15q25.3,protein_coding,"107 / 1,062 (10.08%)","447 / 10,202",128,Cancer Gene Census,add to survival plot
