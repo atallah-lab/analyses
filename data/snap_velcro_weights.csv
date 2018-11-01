@@ -1,0 +1,8 @@
+dataset,closed_tight,closed_loose,open_tight,open_loose
+dbRIP_insertions,48,39,77,113
+Solyom_insertions,5,6,3,7
+Lee_insertions,20,31,21,23
+sum_insertions,73,76,101,143
+hg19_targetsites,10663018,23841941,53687258,155907512
+insertions_per_targetsite,6.84609E-06,3.18766E-06,1.88127E-06,9.1721E-07
+insertions_per_targetsite_normalized,0.533507652,0.248410482,0.146604765,0.071477101
